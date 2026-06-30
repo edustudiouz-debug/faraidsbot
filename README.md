@@ -1,0 +1,2 @@
+# faraidsbot
+faraids
