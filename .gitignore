@@ -1,0 +1,23 @@
+# Maxfiy sozlamalar va tokenlar
+.env
+secret.key
+
+# Ma'lumotlar bazasi fayllari
+data/
+*.db
+*.sqlite3
+
+# Python virtual muhit papkasi
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Vaqtincha yaratiladigan Excel va PDF hisobotlar
+*.xlsx
+*.pdf
+
+# Operatsion tizim tizimli fayllari
+.DS_Store
+Thumbs.db
